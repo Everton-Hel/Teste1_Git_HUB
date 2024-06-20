@@ -1,0 +1,11 @@
+00° passo: Iniciar o Git Bash na pasta do projeto ou entrar na pasta via comando CMD do prompt ou no VS
+01° passo: git status (Esse comando esclarece quais arquivos foram alterados e faz uma comparação com relação à ramificação principal.)
+02° passo: git init (é o primeiro dos comandos git que se usa para começar um repositório. Transformar uma pasta com códigos no seu HD em uma pasta monitorada pelo git)
+03° passo: git add (“git add nome_do_arquivo”  ou “git add .” - Comando que inclui as novas ações para serem monitoradas, uniario ou todos.)
+04° passo: git commit ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
+05° passo:
+06° passo:
+07° passo:
+08° passo: 
+09° passo:
+10° passo:
