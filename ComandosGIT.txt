@@ -8,7 +8,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 02º passo: git diff (mostra as linhas exatas que foram adicionadas e removidas)
 03° passo: git init (é o primeiro dos comandos git que se usa para começar um repositório. Transformar uma pasta com códigos no seu HD em uma pasta monitorada pelo git)
 04° passo: git add (“git add nome_do_arquivo”  ou “git add .” - Comando que inclui as novas ações para serem monitoradas, uniario ou todos.)
-05° passo: git commit ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
+05° passo: git commit -a -m "" ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
 06° passo: git branch (cria novas branches. Mas também pode funcionar como uma forma de verificar as ramificações já existentes. )
 07° passo: git clone ()
 08° passo:
