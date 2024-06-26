@@ -1,11 +1,17 @@
+Link: https://comandosgit.github.io/
+A1º passo: git config (definir o seu nome de usuário e endereço de e-mail. Isso é importante porque todos os commits no Git utilizam essas informações, e está imutavelmente anexado nos commits que você realiza:)
+           (git config --global user.name "Everton Heleno" - git config --global user.email Everton-hel@hotmail.com)
+A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um dos comandos Git:git help {comando} - git {comando} --help man git- {comando})
+
 00° passo: Iniciar o Git Bash na pasta do projeto ou entrar na pasta via comando CMD do prompt ou no VS
 01° passo: git status (Esse comando esclarece quais arquivos foram alterados e faz uma comparação com relação à ramificação principal.)
-02° passo: git init (é o primeiro dos comandos git que se usa para começar um repositório. Transformar uma pasta com códigos no seu HD em uma pasta monitorada pelo git)
-03° passo: git add (“git add nome_do_arquivo”  ou “git add .” - Comando que inclui as novas ações para serem monitoradas, uniario ou todos.)
-04° passo: git commit ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
-05° passo: git branch (cria novas branches. Mas também pode funcionar como uma forma de verificar as ramificações já existentes. )
-06° passo: 
-07° passo:
-08° passo: 
-09° passo:
+02º passo: git diff (mostra as linhas exatas que foram adicionadas e removidas)
+03° passo: git init (é o primeiro dos comandos git que se usa para começar um repositório. Transformar uma pasta com códigos no seu HD em uma pasta monitorada pelo git)
+04° passo: git add (“git add nome_do_arquivo”  ou “git add .” - Comando que inclui as novas ações para serem monitoradas, uniario ou todos.)
+05° passo: git commit ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
+06° passo: git branch (cria novas branches. Mas também pode funcionar como uma forma de verificar as ramificações já existentes. )
+07° passo: git clone ()
+08° passo:
+09° passo: 
 10° passo:
+11° passo:
