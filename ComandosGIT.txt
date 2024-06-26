@@ -15,3 +15,13 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 09° passo: 
 10° passo:
 11° passo:
+
+
+Na pratica
+echo "# Teste1_Git_HUB" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Everton-Hel/Teste1_Git_HUB.git
+git push -u origin main
