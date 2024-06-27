@@ -13,15 +13,15 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 07° passo: git remote add origin "" (cria coneção com git X a pasta do github)
 08° passo: git push -u origin main (envia as atualizações para o github)
 09° passo: git pull (puchar as atualizações do github, caso não tenha irá informar)
-10° passo:
+10° passo: git clone (serve para puxar todo o novo repositorio)
 11° passo:
 
 
 Na pratica
 ========================== envia as atualizações ======================
 git init
-git add README.md
-git commit -m "first commit"
+git add README.md | git add .
+git commit -a -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Everton-Hel/Teste1_Git_HUB.git
 git push -u origin main
