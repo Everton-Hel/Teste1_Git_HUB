@@ -13,8 +13,8 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 07° passo: git remote add origin "" (cria coneção com git X a pasta do github)
 08° passo: git push -u origin main (envia as atualizações para o github)
 09° passo: git pull (puchar as atualizações do github, caso não tenha irá informar)
-10° passo: git clone (serve para puxar todo o novo repositorio)
-11° passo:
+10° passo: git clone https://github.com/Everton-Hel/Teste1_Git_HUB.git (serve para puxar todo o novo repositorio)
+11° passo: git rm TestteTesttePULL.xml (Ira remover o arquivo)
 
 
 Na pratica
