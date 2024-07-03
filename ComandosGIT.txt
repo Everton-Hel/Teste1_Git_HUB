@@ -7,13 +7,13 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 01° passo: git status (Esse comando esclarece quais arquivos foram alterados e faz uma comparação com relação à ramificação principal.)
 02º passo: git diff (mostra as linhas exatas que foram adicionadas e removidas)
 03° passo: git init (é o primeiro dos comandos git que se usa para começar um repositório. Transformar uma pasta com códigos no seu HD em uma pasta monitorada pelo git)
-04° passo: git add (“git add nome_do_arquivo”  ou “git add .” - Comando que inclui as novas ações para serem monitoradas, uniario ou todos.)
-05° passo: git commit -a -m "" ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
+04° passo: git add . (“git add nome_do_arquivo”  ou “git add .” - Comando que inclui as novas ações para serem monitoradas, uniario ou todos.)
+05° passo: git commit -a -m "coment" ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
 06° passo: git branch -M main (cria novas branches. Mas também pode funcionar como uma forma de verificar as ramificações já existentes. )
-07° passo: git remote add origin "" (cria coneção com git X a pasta do github)
+07° passo: git remote add origin https://github.com/Everton-Hel/Teste1_Git_HUB.git (cria coneção com git X a pasta do github)
 08° passo: git push -u origin main (envia as atualizações para o github)
 09° passo: git pull (puchar as atualizações do github, caso não tenha irá informar)
-10° passo: git clone https://github.com/Everton-Hel/Teste1_Git_HUB.git (serve para puxar todo o novo repositorio)
+10° passo: git clone https://github.com/Everton-Hel/Teste1_Git_HUB.git (baixa uma nova copia total do projeot, se por o ponto no final, joga tudo na raiz do local, sem o ponto recria a pasta total)
 11° passo: git rm TestteTesttePULL.xml (Ira remover o arquivo)
 
 
