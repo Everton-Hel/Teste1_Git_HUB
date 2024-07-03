@@ -15,6 +15,8 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 09° passo: git pull (puchar as atualizações do github, caso não tenha irá informar)
 10° passo: git clone https://github.com/Everton-Hel/Teste1_Git_HUB.git (baixa uma nova copia total do projeot, se por o ponto no final, joga tudo na raiz do local, sem o ponto recria a pasta total)
 11° passo: git rm TestteTesttePULL.xml (Ira remover o arquivo)
+12° passo: git log (tras todo os log's criados)
+
 
 
 Manual do Markdown para GitHub
