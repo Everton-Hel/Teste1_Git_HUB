@@ -17,13 +17,13 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 11° passo: git rm TestteTesttePULL.xml (Ira remover o arquivo)
 12° passo: git log (tras todo os log's criados)
 13° passo: GIT CHECKOUT "ARQUIVO" (TRAZ O ARQUIVO ORIGINAL DO gIThUB)
-14° passo: .gitignore (criar um arquivo chamado ".gitignore" nele por ."arquivo pratica
-    ignorar por arquivo ou "/NomeDaPasta" para ignorar a pastata toda)
+14° passo: .gitignore (criar um arquivo chamado ".gitignore" nele por "arquivo que dever ser
+    ignorado ou ignorar a pasta toda, exemplo"noe_modules/*" irá ignorar a pasta toda)
 15° passo: git reset --hard origin/main (ira resetar toda a branch do git, trazendo a main 
     do github para o git, assim irá perder tudo, deixando o original da main)
 16° passo: git mv "arquivo.css NovaPasta/arquivo.css" (irá mover o arquivo de um local para outro
            ou pode renomentar, exemplo "git mv pasta/arquivo.css pasta/NovoNome_arquivo.css")
-           
+
 
 
 
