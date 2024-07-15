@@ -16,6 +16,9 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 10° passo: git clone https://github.com/Everton-Hel/Teste1_Git_HUB.git (baixa uma nova copia total do projeot, se por o ponto no final, joga tudo na raiz do local, sem o ponto recria a pasta total)
 11° passo: git rm TestteTesttePULL.xml (Ira remover o arquivo)
 12° passo: git log (tras todo os log's criados)
+13° passo: GIT CHECKOUT "ARQUIVO" (TRAZ O ARQUIVO ORIGINAL DO gIThUB)
+14° passo: .gitignore (criar um arquivo chamado ".gitignore" nele por ."arquivo pratica
+    ignorar por arquivo ou "/NomeDaPasta" para ignorar a pastata toda)
 
 
 
