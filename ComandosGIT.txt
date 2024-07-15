@@ -19,7 +19,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 13° passo: GIT CHECKOUT "ARQUIVO" (TRAZ O ARQUIVO ORIGINAL DO gIThUB)
 14° passo: .gitignore (criar um arquivo chamado ".gitignore" nele por ."arquivo pratica
     ignorar por arquivo ou "/NomeDaPasta" para ignorar a pastata toda)
-15° passo: git git reset --hard origin/main (ira resetar toa a branch do git, trazendo a main 
+15° passo: git reset --hard origin/main (ira resetar toda a branch do git, trazendo a main 
     do github para o git, assim irá perder tudo, deixando o original da main)
 
 
