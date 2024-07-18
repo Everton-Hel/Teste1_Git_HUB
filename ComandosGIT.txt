@@ -23,7 +23,8 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
     do github para o git, assim irá perder tudo, deixando o original da main)
 16° passo: git mv "arquivo.css NovaPasta/arquivo.css" (irá mover o arquivo de um local para outro
            ou pode renomentar, exemplo "git mv pasta/arquivo.css pasta/NovoNome_arquivo.css")
-17° passo: git branches (criando branches)
+17° passo: git branches (verifica a branch)
+           git branch priemiro_branch (cria a branch com o nome informado)
 
 
 
