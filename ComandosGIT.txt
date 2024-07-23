@@ -29,7 +29,15 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            git checkout <NomeDaBranch> (aqui vc irá navegar entre as branchs)
            git checkout -b <NomeDaBranch> (aqui vc irá criar uma nova branch a partir da "master" e irá ja selecionar-la)
            git merge <nome> (Junta a Master com a branch)
-
+           git merge main (Atualiza a Branch puchando as ções extra da Master)
+18° passo: git stash (Será desfeito o progresso, deixando as ações na lixeira e se precsar, pode recuperar)
+           git stash list (irá apresentar a lista dos stash gerado, podendo recuperar)
+           git stash apply 0 (recuperar a stash)
+           git stash show -p <NumeroDaStashNaLista> (mostra as modificações feitas)
+           git stash clear(Remove todas a stash criada)
+           git drop <NumeroDaStashNaLista> (Remove uma stash criada)
+19° passo: git tag -a <nome> -a "<MSG>" (Cria notas/tags/versona nas branches)
+           git tag -a v1.0 -m "Primeira versão"
 
 Manual do Markdown para GitHub
 
