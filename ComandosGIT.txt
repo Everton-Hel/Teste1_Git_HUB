@@ -28,7 +28,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            git -d <NomeDaBrench> (ou --delete, serve para deletar a brench)
            git checkout <NomeDaBranch> (aqui vc irá navegar entre as branchs)
            git checkout -b <NomeDaBranch> (aqui vc irá criar uma nova branch a partir da "master" e irá ja selecionar-la)
-           
+           git merge <nome> (Junta a Master com a branch)
 
 
 Manual do Markdown para GitHub
