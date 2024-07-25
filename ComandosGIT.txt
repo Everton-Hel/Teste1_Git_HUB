@@ -25,7 +25,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            ou pode renomentar, exemplo "git mv pasta/arquivo.css pasta/NovoNome_arquivo.css")
 17° passo: git branch (verifica a branch)
            git branch priemiro_branch (cria a branch com o nome informado)
-           git -d <NomeDaBrench> (ou --delete, serve para deletar a brench)
+           git branch -d <NomeDaBrench> (ou --delete, serve para deletar a brench)
            git checkout <NomeDaBranch> (aqui vc irá navegar entre as branchs)
            git checkout -b <NomeDaBranch> (aqui vc irá criar uma nova branch a partir da "master" e irá ja selecionar-la)
            git merge <nome> (Junta a Master com a branch)
