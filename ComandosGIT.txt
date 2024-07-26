@@ -31,6 +31,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            git merge <nome> (Junta a Master com a branch)
            git merge main (Atualiza a Branch puchando as ções extra da Master)
            git push --set-upstream origin primeiro_branch (envia para o github a branch criada)
+           git fetch -a (irá verificar na repo github se existe alguma branch nova, assim para acessar a nova branch apos o comando "git fetch -a" deve acessar nomal, mesmo não aparecendo de primeira, mas ta la)
 18° passo: git stash (Será desfeito o progresso, deixando as ações na lixeira e se precsar, pode recuperar)
            git stash list (irá apresentar a lista dos stash gerado, podendo recuperar)
            git stash apply 0 (recuperar a stash)
