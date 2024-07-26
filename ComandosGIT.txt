@@ -30,6 +30,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            git checkout -b <NomeDaBranch> (aqui vc irá criar uma nova branch a partir da "master" e irá ja selecionar-la)
            git merge <nome> (Junta a Master com a branch)
            git merge main (Atualiza a Branch puchando as ções extra da Master)
+           git push --set-upstream origin primeiro_branch (envia para o github a branch criada)
 18° passo: git stash (Será desfeito o progresso, deixando as ações na lixeira e se precsar, pode recuperar)
            git stash list (irá apresentar a lista dos stash gerado, podendo recuperar)
            git stash apply 0 (recuperar a stash)
