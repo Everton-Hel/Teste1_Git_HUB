@@ -1,0 +1,25 @@
+[33mtag v1.0[m
+Tagger: Everton Heleno <everton-hel@hotmail.com>
+Date:   Thu Jul 25 23:33:42 2024 -0300
+
+primeita tag, treinando1
+
+[33mcommit 1d34549d07bf777541475e53069f529425bec61f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: v1.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Everton Heleno <everton-hel@hotmail.com>
+Date:   Thu Jul 25 00:04:59 2024 -0300
+
+    corrigindo escrita2
+
+[1mdiff --git a/ComandosGIT.txt b/ComandosGIT.txt[m
+[1mindex 4ed9bfa..ac1e255 100644[m
+[1m--- a/ComandosGIT.txt[m
+[1m+++ b/ComandosGIT.txt[m
+[36m@@ -25,7 +25,7 @@[m [mA2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d[m
+            ou pode renomentar, exemplo "git mv pasta/arquivo.css pasta/NovoNome_arquivo.css")[m
+ 17° passo: git branch (verifica a branch)[m
+            git branch priemiro_branch (cria a branch com o nome informado)[m
+[31m-           git -d <NomeDaBrench> (ou --delete, serve para deletar a brench)[m
+[32m+[m[32m           git branch -d <NomeDaBrench> (ou --delete, serve para deletar a brench)[m
+            git checkout <NomeDaBranch> (aqui vc irá navegar entre as branchs)[m
+            git checkout -b <NomeDaBranch> (aqui vc irá criar uma nova branch a partir da "master" e irá ja selecionar-la)[m
+            git merge <nome> (Junta a Master com a branch)[m
