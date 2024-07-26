@@ -36,7 +36,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            git stash show -p <NumeroDaStashNaLista> (mostra as modificações feitas)
            git stash clear(Remove todas a stash criada)
            git drop <NumeroDaStashNaLista> (Remove uma stash criada)
-19° passo: git tag -a <nome> -a "<MSG>" (Cria notas/tags/versona nas branches)
+19° passo: git tag -a <nome> -m "<MSG>" (Cria notas/tags/versona nas branches)
            git tag -a v1.0 -m "Primeira versão"
            git tag (Verifica a lista existentes)
            git show <nome> (Irá verificar os detalhes dessa branch)
