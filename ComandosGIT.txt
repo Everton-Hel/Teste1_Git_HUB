@@ -40,7 +40,7 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            git drop <NumeroDaStashNaLista> (Remove uma stash criada)
 19° passo: git tag -a <nome> -m "<MSG>" (Cria notas/tags/versona nas branches)
            git tag -a v1.0 -m "Primeira versão"
-           git tag (Verifica a lista existentes)
+           git tag (Verifica a lista existentes) "para sai, aperte 2x a letra QQ"
            git show <nome> (Irá verificar os detalhes dessa branch)
            git push origin v2.0 (envia a TAG em questão para o GitHub)
            git push origin --tags (Envia todas as tags para o repo no GitHub)
