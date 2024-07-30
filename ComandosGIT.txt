@@ -44,6 +44,12 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
            git show <nome> (Irá verificar os detalhes dessa branch)
            git push origin v2.0 (envia a TAG em questão para o GitHub)
            git push origin --tags (Envia todas as tags para o repo no GitHub)
+20° passo: git gc (melhora o repo, faz uma limeza, retirando "lixos")
+21° passo: git shortlog (irá mostrar as mensagem dos commits realizados em uma lista)
+22° passo: git diff (compara repo entre o Git X GitHub) "CRTROL C sai"
+           git dig HEAD: <NomeArquivo.txt> (compara arquivo entre o GiT X GitHub)
+23° passo: git reflog (mostra a linha do tempo sobre o log)
+24° passo: git 
            
  
 Manual do Markdown para GitHub
