@@ -11,6 +11,8 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 05° passo: git commit -a -m "coment" ("git commit nome_do_arquiv -m "mensagem"" - "git commit nome_do_arquiv -a" Ele leva as mudanças de um ambiente local para o repositório no git, podendo também por uma mensagem)
 06° passo: git branch -M main (cria novas branches. Mas também pode funcionar como uma forma de verificar as ramificações já existentes. )
 07° passo: git remote add origin https://github.com/Everton-Hel/Teste1_Git_HUB.git (cria coneção com git X a pasta do github)
+           git remote -v (verifica o link existente)
+           git remote rm origin (remove o link )
 08° passo: git push -u origin main (envia as atualizações para o github)
 09° passo: git pull (puchar as atualizações do github, caso não tenha irá informar)
 10° passo: git clone https://github.com/Everton-Hel/Teste1_Git_HUB.git (baixa uma nova copia total do projeot, se por o ponto no final, joga tudo na raiz do local, sem o ponto recria a pasta total)
