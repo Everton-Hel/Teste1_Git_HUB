@@ -53,7 +53,9 @@ A2º passo: git help (existem três maneiras de obter a ajuda para qualquer um d
 23° passo: git reflog (mostra a linha do tempo sobre o log)
 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cria um submodulo dentro do repo, é uma forma de ter um projeto dentro do outro)
            git push --recurse-submodules=on-demand (irá fazer um push no submodule, atualizando apenas o submódulo)
-25° passo: git 
+25° passo: git clean -f (limpa arquivos que não estão sendo trackeados, que nã outilizou o "git add")
+26° passo: 
+27° passo: 
            
  
 Manual do Markdown para GitHub
