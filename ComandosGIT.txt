@@ -56,7 +56,18 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
 26° passo: git fsck (verifica a integridade de arquivos e sua conectividade)
            git reset --hard <hashDoLog> (com a hash do log é possivel retorno ao ponto da hesh)
 27° passo: git archive --format zip --output master_files.zip (comando para salvar em um diretorio "PENDRIVE")
-           
+
+--- boas praticas "ações com private branch, na verdade cria-se uma branch apena na máquina parque serve para não subir logs e comentarios poluidos, comitanto de forma adequada, e limpando o desnecessario"
+---               "dessa forma cria uma branche que pode subir no github (Exemplo.: Function_A) e cria uma branch privada (Exemplo.: Private_Function_A), a branch privada apos finalização terá que deletar os comentarios lixoa para então subir na branch original que está sincronizada com o github"
+28° passo: git rebase Function_A Private_Function_A -i (ação que irá apresentar os comentarios, assim escolhendo os que fica e os que deleta)
+           --- "os comentarios estaram no formato 'pick e4fcc54 comentario', para excluir o comentario, aperte a tecla 'I', depois apague a escrita 'pick' e substitua por 'squash' dos commites que não quer, depois aperte ':x!' para salvar as alterações"
+           --- "trocando o 'pick' por 'reword', consegue substituir a escrita, na proxima tela, tecle 'I' e se por o '#' estara comentando aquela linha e assim não ira entrar o commite, agora sim, tecle 'I' e substitua a escrita, lembre-se de no final tecle enter e depois aperte ':x!' para salvar as alterações"
+           --- " agora com git log e possível ver apenas os comentarios que ficaram ou suas alterações"
+           --- " é bom criar um padrão de cmentarios por exemplo"
+           git coomit -a -m "<Escreva o titulo co até 50 caracteres>" (dvide o comite colocando o titulo sem por o aspa dupla no final, assim abre para inserir linhas no comentario no corpo, na qual deixe ate 70 caracteres)
+           --- "pos finalizar o corpo da descrição, tecle '"' aspas duplas e de enter para salvar, apenas o titulo irá ficar visivel de forma simples para primeira verificação, com o git log consegue ver por completo"
+29° passo: 
+30° passo: 
  
 Manual do Markdown para GitHub
 
