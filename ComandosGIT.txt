@@ -71,8 +71,8 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
 31° passo: CI/CD (ação criada no github na aba Action para automatizar rotina de atualizar a master "Pull Resquest") não precisa verificar, mas da para criar automatizações com diversas platafromas
 32° passo: Aba Project (No GitHUb o Project pode criar quadro de tarefas, lembra o trllo)
 33° passo: Aba Wiki (Pode ser criado documentações mais extensa para o projeto, tipo, info de bug, soluções, Query de SLQ...)
-34° passo: Ana Insights (tem infromações detalhadas do projeto)
-35° passo: 
+34° passo: Aba Insights (tem infromações detalhadas do projeto)
+35° passo: Aba Settings (Nessa aba é aonde verifica e configura o projeto criado, existe diversas ações)
 36° passo: 
 37° passo: 
 38° passo: 
