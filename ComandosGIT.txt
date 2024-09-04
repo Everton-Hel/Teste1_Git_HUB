@@ -67,7 +67,7 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
            git coomit -a -m "<Escreva o titulo co até 50 caracteres>" (dvide o comite colocando o titulo sem por o aspa dupla no final, assim abre para inserir linhas no comentario no corpo, na qual deixe ate 70 caracteres)
            --- "pos finalizar o corpo da descrição, tecle '"' aspas duplas e de enter para salvar, apenas o titulo irá ficar visivel de forma simples para primeira verificação, com o git log consegue ver por completo"
 29° passo: Pull Request - são ações feitas pelo ADM aonde irá via GitHub verificar as branchs com solicitações de merge, i ira validar e aceitar o marge (avaliar o passo a passo)
-30° passo: Issues (verificar passo a passo)
+30° passo: Issues (cria tarefas, abrir tarefas de correções)
 31° passo: CI/CD (ação criada no github na aba Action para automatizar rotina de atualizar a master "Pull Resquest") não precisa verificar, mas da para criar automatizações com diversas platafromas
 32° passo: Aba Project (No GitHUb o Project pode criar quadro de tarefas, lembra o trllo)
 33° passo: Aba Wiki (Pode ser criado documentações mais extensa para o projeto, tipo, info de bug, soluções, Query de SLQ...)
@@ -77,6 +77,8 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
 37° passo: 
 38° passo: 
 
+notas:
+Estudar controle de versão
 
  
 Manual do Markdown para GitHub
