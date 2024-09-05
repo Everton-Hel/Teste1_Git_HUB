@@ -77,6 +77,17 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
 37° passo: 
 38° passo: 
 
+- Markdown comando e
+  + #TEXTO headings - (Para titulos, E o mesmo que <H1> do HTML)
+  + ##TEXTO headings - (Para Subtitulos, E o mesmo que <H2> do HTML)
+  + ###TEXTO headings - (Para Subtitulos, E o mesmo que <H3> do HTML)
+  + ####TEXTO headings - (Para Subtitulos, E o mesmo que <H4> do HTML)
+  + #####TEXTO headings - (Para Subtitulos, E o mesmo que <H5> do HTML)
+  + **TEXTO** - (Enfase - Negrito)
+  = _TEXTO_ - (Enfase - italico)
+  + _TEXTO ITALICO **NEGRITO**_ - (Enfase - mesclando Negrito + italico)
+
+
 notas:
 Estudar controle de versão
 
