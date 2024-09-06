@@ -86,7 +86,14 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
   + **TEXTO** - (Enfase - Negrito)
   = _TEXTO_ - (Enfase - italico)
   + _TEXTO ITALICO **NEGRITO**_ - (Enfase - mesclando Negrito + italico)
-
+  + ![Descrição IMG](inserir o link aqui) - Inserindo imagens)
+  + [Instagram](inserir o link aqui) - Inserindo links)
+  + * Lista não ordenadas (trabalhando com listas)
+  + 1. Lista ordenadas (trabalhando com listas)
+  +   1.1 Lista ordenadas (sub item da lista ordenada deve por 2 tab - trabalhando com listas)
+  + > Irá gerar um destaque, tendo tb que gerar o sinbulo ao pular linha (Blockquote - utilizado para destacar alguma área)
+  + ''' Por o código entre aqui ''' (código - inserir informação de trecho de código que fica destacado e interpretado)
+  +
 
 notas:
 Estudar controle de versão
