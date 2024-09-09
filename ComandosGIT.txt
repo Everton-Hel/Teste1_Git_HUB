@@ -93,7 +93,11 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
   +   1.1 Lista ordenadas (sub item da lista ordenada deve por 2 tab - trabalhando com listas)
   + > Irá gerar um destaque, tendo tb que gerar o sinbulo ao pular linha (Blockquote - utilizado para destacar alguma área)
   + ''' Por o código entre aqui ''' (código - inserir informação de trecho de código que fica destacado e interpretado)
-  +
+  + - [X] Tasklist marcada | - [] Tasklist não marcada - (cria lista com opçção de check)
+  + Tabela1 | TAB2 | TAB3 - (tabelas)
+    ------  | ---- | ----
+    Info1   | Info2| Info3
+  + 
 
 notas:
 Estudar controle de versão
