@@ -86,13 +86,13 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
   + **TEXTO** - (Enfase - Negrito)
   = *texto* ou _TEXTO_ - (Enfase - italico)
   + _TEXTO ITALICO **NEGRITO**_ - (Enfase - mesclando Negrito + italico)
-  + ![Descrição IMG](inserir o link aqui) - Inserindo imagens)
+  + ![Descrição IMG](inserir o link aqui) - Inserindo imagens) - é possivel tb por a img em uma pasta do projeto e chamar ![logo](img/logo.png)
   + [Instagram](inserir o link aqui) - Inserindo links)
   + * Lista não ordenadas (trabalhando com listas)
   + 1. Lista ordenadas (trabalhando com listas)
   +   1.1 Lista ordenadas (sub item da lista ordenada deve por 2 tab - trabalhando com listas)
   + > Irá gerar um destaque, tendo tb que gerar o sinbulo ao pular linha (Blockquote - utilizado para destacar alguma área)
-  + ''' Por o código entre aqui ''' (código - inserir informação de trecho de código que fica destacado e interpretado)
+  + '''JavaScript Por o código entre aqui ''' (código - inserir informação da linguagem + o trecho de código que fica destacado e interpretado)
   + - [X] Tasklist marcada | - [] Tasklist não marcada - (cria lista com opçção de check)
   + Tabela1 | TAB2 | TAB3 - (tabelas)
     ------  | ---- | ----
@@ -100,9 +100,14 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
   +  - (Menu de links internos) para pegar o link, selecione no Readme.md o texto e no browse copia o # até o final
      [Bem vindo](#Bem-vind0....)
      [inicio](#inicio)
+  + 
+  +
+  +
+  +
 
 notas:
 Estudar controle de versão
+servidor de arquivos staticos (para amazenar img...)
 
  
 Manual do Markdown para GitHub
