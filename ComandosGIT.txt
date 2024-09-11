@@ -100,7 +100,10 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
   +  - (Menu de links internos) para pegar o link, selecione no Readme.md o texto e no browse copia o # até o final
      [Bem vindo](#Bem-vind0....)
      [inicio](#inicio)
-  + 
+  + GitHub Pages (É possível criar uma pagina ligada diretamente ao REPO no GitHub)
+    1. Criar um REPO com o SEU nome.githuub.io
+    2. crie o site com HTML, CSS, JavaScript...
+    3. Utilizar o nome da REPO como link de site...
   +
   +
   +
