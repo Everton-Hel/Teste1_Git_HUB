@@ -84,7 +84,7 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
   + ####TEXTO headings - (Para Subtitulos, E o mesmo que <H4> do HTML)
   + #####TEXTO headings - (Para Subtitulos, E o mesmo que <H5> do HTML)
   + **TEXTO** - (Enfase - Negrito)
-  = _TEXTO_ - (Enfase - italico)
+  = *texto* ou _TEXTO_ - (Enfase - italico)
   + _TEXTO ITALICO **NEGRITO**_ - (Enfase - mesclando Negrito + italico)
   + ![Descrição IMG](inserir o link aqui) - Inserindo imagens)
   + [Instagram](inserir o link aqui) - Inserindo links)
@@ -97,7 +97,9 @@ git 24° passo: git submodule add <LinkDoGitHubDaNovaRepo> <NomeDaSubmodule> (cr
   + Tabela1 | TAB2 | TAB3 - (tabelas)
     ------  | ---- | ----
     Info1   | Info2| Info3
-  + 
+  +  - (Menu de links internos) para pegar o link, selecione no Readme.md o texto e no browse copia o # até o final
+     [Bem vindo](#Bem-vind0....)
+     [inicio](#inicio)
 
 notas:
 Estudar controle de versão
